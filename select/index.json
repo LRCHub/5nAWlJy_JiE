@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ディスコバルーン",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-25T08:12:09.698113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ディスコバルーン",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ディスコバルーン_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ディスコバルーン",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ディスコバルーン_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ディスコバルーン",
+      "artist": "Yonezu Kenshi",
+      "has_synced": true,
+      "path": "select/03_ディスコバルーン_Yonezu_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ディスコバルーン",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/04_ディスコバルーン_ハチ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディスコバルーン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ディスコバルーン_米津玄師.txt"
+    }
+  ]
+}
